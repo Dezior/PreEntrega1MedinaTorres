@@ -16,3 +16,5 @@ function Main() {
 }
 
 export default Main
+
+// comenté los imports porque me dan un error
