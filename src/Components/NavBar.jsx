@@ -9,6 +9,8 @@ function Header() {
                 <a href="">Link 1</a>
                 <a href="">Link 2</a>
                 <a href="">Link 3</a>
+                <img src="./icono-menu.png" alt="" />
+                <Menu width={20} height={20}/>
 
             </nav>
 
